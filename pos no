@@ -1,0 +1,4 @@
+i = [ 11 , -21 , 21 , -123 , 234 ]
+for num in i:
+     if num > 0:
+        print(num)
